@@ -81,7 +81,7 @@ main {
 }
 
 .imagem img {
-  max-width: 300px;
+  max-width: 500px;
   border-radius: 16px;
   border: 2px solid #00bfff;
 }
